@@ -65,7 +65,7 @@ const Navbar = () => {
                     currentRoute === "/blog" ? "activeLink" : "pendingLink"
                   }
                 >
-                  Bangla News
+                  Blog
                 </Link>
               </li>
               <li>
@@ -77,7 +77,7 @@ const Navbar = () => {
                     currentRoute === "/contact" ? "activeLink" : "pendingLink"
                   }
                 >
-                  Bangla News
+                  Contact
                 </Link>
               </li>
             </ul>
@@ -130,7 +130,7 @@ const Navbar = () => {
                   currentRoute === "/contact" ? "activeLink" : "pendingLink"
                 }
               >
-                Blog
+                Contact
               </Link>
             </li>
           </ul>
